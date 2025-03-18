@@ -1,4 +1,4 @@
-# Project-Orkut
+# Orbit
 
 Este é um projeto em grupo desenvolvido no 3º semestre do curso de Análise e Desenvolvimento de Sistemas da Fatec.
 
