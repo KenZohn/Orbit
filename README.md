@@ -1,2 +1,11 @@
 # Project-Orkut
-projeto de um protótipo de orkut
+
+Este é um projeto em grupo desenvolvido no 3º semestre do curso de Análise e Desenvolvimento de Sistemas da Fatec.
+
+O objetivo do projeto foi desenvolver uma rede social baseada no Orkut sem a utilização de banco de dados. Ou seja, os dados eram salvos apenas em variáveis ou arrays, e ao fechar o programa, todos os dados eram perdidos.
+
+Principais funções do sistema:
+- Cadastro de usuário
+- Login com autenticação
+- Recuperação de senha por e-mail
+- 
