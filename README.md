@@ -8,4 +8,7 @@ Principais funções do sistema:
 - Cadastro de usuário
 - Login com autenticação
 - Recuperação de senha por e-mail
-- 
+- Postagem (Criar, deletar e visualizar)
+- Amigos (Adicionar, aceitar, recusar, desfazer)
+- Comunidade (Criar, entrar, postar)
+- Jogos (Jogo clicker de nariz)
